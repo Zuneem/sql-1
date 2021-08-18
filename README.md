@@ -1,2 +1,2 @@
-# sql-1
-sql queries 
+# sql
+canvas studio book 
